@@ -12,3 +12,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- _posts/2018-08-02-published-in-latitudes-magazine.md
