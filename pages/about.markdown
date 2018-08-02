@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /about/
----
+permalink: "/about/"
 
-test 1 2 3 4 
+---
+This website **intend** to ... 
