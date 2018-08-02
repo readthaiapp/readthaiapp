@@ -1,0 +1,40 @@
+# Profile information
+name: Read Thai
+title: Read Write Speak Thai - Free App to learn Thai
+description: > # this means to ignore newlines until "baseurl:"
+  Read write speak thai, mobile application on iOS and Android to learn to read Thai.
+  Color the tone, read sentences and words. 
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jobijoba.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "logo.png"
+
+# Social
+facebook: readthaifunapp #Add your Facebook
+twitter: #Add your Twitter
+google-plus: #Add your Google+
+github: #Add your Github
+
+# Contact form
+email: readthaifunapp@gmail.com #your-email@domain.com
+
+# Comments
+discus-identifier: # Add your Disqus identifier
+
+# Paginate
+paginate: 5
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock
+include: [_pages]
+
+sass:
+    sass_dir: _sass
+    style: :compressed
