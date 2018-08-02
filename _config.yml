@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Color the tone, read sentences and words. 
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://readthaifun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jobijoba.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "logo.png"
 
 # Social
