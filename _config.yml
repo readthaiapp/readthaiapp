@@ -33,7 +33,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-include: [_pages]
+include: [pages]
 
 sass:
     sass_dir: _sass
