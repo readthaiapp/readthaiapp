@@ -1,0 +1,14 @@
+---
+label: description
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+  default: description
+  label: description
+  name: description
+  description: description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
