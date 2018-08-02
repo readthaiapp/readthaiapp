@@ -1,7 +1,7 @@
 ---
 label: description
 hide_body: false
-is_partial: false
+is_partial: true
 fields:
 - type: textarea
   default: description
