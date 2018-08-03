@@ -23,5 +23,3 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-pages:
-- _posts/post.md
