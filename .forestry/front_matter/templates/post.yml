@@ -23,3 +23,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- _posts/2018-08-04-futur-of-readwritespeakthai.md
