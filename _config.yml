@@ -11,8 +11,8 @@ logo: "logo.png"
 
 # Social
 facebook: readthaifunapp #Add your Facebook
-twitter: #Add your Twitter
-google-plus: #Add your Google+
+twitter: joba_react #Add your Twitter
+instagram: readthaifun_app #Add your Google+
 github: #Add your Github
 
 # Contact form
@@ -20,7 +20,7 @@ email: readthaifunapp@gmail.com #your-email@domain.com
 
 analytics: UA-120912935-2
 # Comments
-discus-identifier: # Add your Disqus identifier
+discus-identifier: readthaiapp # Add your Disqus identifier
 
 # Paginate
 paginate: 5
