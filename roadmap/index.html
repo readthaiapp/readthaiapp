@@ -90,6 +90,136 @@
       
       <p>This is the roadmap of the application, so all the new feature coming in in the next few weeks / months</p>
 
+<h2 id="whats-on-the-pipe-summary">What’s on the pipe! (Summary)</h2>
+
+<ul>
+  <li>Adding new sentences (I’d like to reach 1500 sentences end of the year)</li>
+  <li>Let people add their own sentence/word in the app.</li>
+  <li>Youtube/Instagram feed of curated content about Thai</li>
+  <li>More games</li>
+  <li>Adding the Dictionary and Translation service</li>
+  <li>Switch to a better Text-To-Speech method</li>
+  <li>Open the app, open the direct translator then show a picture with text with your camera and it automatically and instantly translate what’s written.</li>
+  <li>Account to save your profile online.</li>
+  <li>Share space where users can speak together, share experience, tips, ask questions, etc</li>
+  <li>Transform the app to be multi-level friendly (Beginner / Intermediate / Advanced)</li>
+</ul>
+
+<h2 id="adding-new-sentences">Adding new sentences</h2>
+
+<p>This will be progressive, I’ll start to add 20+ sentences a day to reach that level of 1500 sentences end of the year (with some days where I’ll put maybe 200 hundred in one time ;) )</p>
+
+<p>I’ll try to populate first the category which does not have a lot of sentences currently which are Feelings, Weather, Dating, Family.</p>
+
+<h2 id="let-people-add-their-own-sentenceword-in-the-app">Let people add their own sentence/word in the app</h2>
+
+<p>I’ll start with a first phase where people can add words only.</p>
+
+<p>It’s quite “hard” to put sentences in the app as I require many information per sentence.</p>
+
+<p>Let’s take an example:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="w">
+      </span><span class="nt">"id"</span><span class="p">:</span><span class="w"> </span><span class="mi">110</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"thaiSentence"</span><span class="p">:</span><span class="w"> </span><span class="s2">"คุณใจดีมาก"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"categories"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="mi">10</span><span class="p">,</span><span class="w"> </span><span class="mi">11</span><span class="p">],</span><span class="w">
+      </span><span class="nt">"source"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="mi">1</span><span class="p">],</span><span class="w">
+      </span><span class="nt">"words"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="mi">54</span><span class="p">,</span><span class="w"> </span><span class="mi">237</span><span class="p">,</span><span class="w"> </span><span class="mi">84</span><span class="p">],</span><span class="w">
+      </span><span class="nt">"translations"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="nt">"english"</span><span class="p">:</span><span class="w"> </span><span class="s2">"You are very kind."</span><span class="w">
+      </span><span class="p">}</span><span class="w">
+    </span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre>
+</div>
+
+<p>That’s what we have behind the scene for each sentence.</p>
+
+<p>We can see that a sentence is divided by words (here 54,237 and 84).</p>
+
+<p>If we look at 84 for example:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="w"> </span><span class="p">{</span><span class="w">
+      </span><span class="nt">"id"</span><span class="p">:</span><span class="w"> </span><span class="mi">84</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"word"</span><span class="p">:</span><span class="w"> </span><span class="s2">"มาก"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"tone"</span><span class="p">:</span><span class="w"> </span><span class="s2">"F"</span><span class="p">,</span><span class="w">
+      </span><span class="nt">"translations"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"english"</span><span class="p">:</span><span class="w"> </span><span class="s2">"A lot"</span><span class="w"> </span><span class="p">},</span><span class="w">
+      </span><span class="nt">"linkedWord"</span><span class="p">:</span><span class="w"> </span><span class="p">[],</span><span class="w">
+      </span><span class="nt">"synonym"</span><span class="p">:</span><span class="w"> </span><span class="p">[],</span><span class="w">
+    </span><span class="err">},</span><span class="w">
+</span></code></pre>
+</div>
+
+<p>A word have his definition in thai, a tone, a translation in english (that’s the required minimum).</p>
+
+<p>So for each sentence, I need to have a list of words which themselves need to have a translation &amp; tone.</p>
+
+<p>This is the simple case when the word only have one tone, but in case of a multi-tone words, the structure is a bit more complex.</p>
+
+<p>I might be able to bypass that and so people will be able to add words/sentences without defining the tone but it means that those sentences won’t be usable by the game section &amp; displayed in search functionality when filtering on tone (for words).</p>
+
+<p>The sentences have other mandatory info which are the category but by default we can say it’s MISC.</p>
+
+<p>Next to that, I would like to add the possibility to share the sentences created by users, so it will send it to me, then I’ll correct them if necessary and add them after for everyone in the application.</p>
+
+<h2 id="youtubeinstagram-feed">Youtube/Instagram feed</h2>
+
+<p>I’ve already written a blogpost about that so I won’t repeat myself, but this is in my to-do list as I think it’s very useful. There is really nice youtube video explaining the big concept of how to read Thai, or subtleties of the language.</p>
+
+<h2 id="more-games">More games</h2>
+
+<p>On facebook, I saw someone interested in a kind of puzzle games which can be interesting to add in the app. Being able to play a bit more with the content is interesting.</p>
+
+<p>Maybe also a game to teach ourself to type with the Thai keyboard.</p>
+
+<h2 id="adding-dictionary--translation-services">Adding Dictionary &amp; Translation services</h2>
+
+<p>Right now, in the tools section, people can vote for the two. It seems that people would like to have that in-app, so will be it!</p>
+
+<p>The issue with that is that it has a cost (backend) and I try to stay free as much as I can.<br />
+I might add a payment system to become “Gold member” to access some of the feature of the app (the one which have a cost).</p>
+
+<h2 id="switch-to-a-better-text-to-speech-system">Switch to a better Text-To-Speech system</h2>
+
+<p>Right now, I’m using the one built in the phone but the biggest issue is our friend from Samsung which does not have Thai language … So it’s really painful for our dear Samsung user to go in a configuration screen to change the language of that thing to the Google one.</p>
+
+<p>Also, another Text-To-Speech system would be more voice type (Male / Female).</p>
+
+<p>Android already let users choose between a male and a female but not iOS.</p>
+
+<p>Again; this have a cost, so probably in a “paid” version of the app.</p>
+
+<h2 id="imagetext-recognition">Image/Text recognition</h2>
+
+<p>I’ve the ability to add that feature which I find really useful. Take your phone, scan through the camera a menu, a sign, or whatever containing Thai text, and you’ll see the direct translation in english.</p>
+
+<p>Again, this feature have a cost ( Quite expensive in fact ).</p>
+
+<h2 id="account-to-save-profile-online">Account to save profile online</h2>
+
+<p>When you have multiple devices and you want to share your favorite and soon your sentences/words between different device, we need to go through an online service to store that information.</p>
+
+<p>This also have a cost; but relatively cheap</p>
+
+<h2 id="a-kind-of-forum-in-the-app">A kind of “forum” in the app</h2>
+
+<p>A space where people can ask question, share an image, an advice, or other about Thai language.</p>
+
+<h2 id="multi-level-friendly">Multi-level friendly</h2>
+
+<p>Right now, the app is more for intermediate/advanced user.</p>
+
+<p>I would like to add at the beginning of the app a kind of selection like</p>
+
+<p>I’m a beginner / Intermediate / Advanced learner.</p>
+
+<p>Depending on that, I could recommend a flow of sentences and technics to learn more effectively to read Thai.</p>
+
+<h1 id="what-do-you-think">What do you think?</h1>
+
+<p>If you think that one of this idea need a bigger priority, or is wrong, or is super, or whatever it can be ;) Please comment down or send us an email.</p>
+
+<p>We are reading all the suggestion so if you have something I didn’t thought about yet, send it to us.</p>
+
     </div>
     
 <div id="disqus_thread"></div>
