@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="https://jobijoba.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jobijoba.github.io/" rel="alternate" type="text/html" /><updated>2018-08-24T04:51:45+00:00</updated><id>https://jobijoba.github.io/</id><title type="html">Read Write Speak Thai - Free App to learn Thai</title><subtitle>Read write speak thai, mobile application on iOS and Android to learn to read Thai. Color the tone, read sentences and words. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="https://jobijoba.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jobijoba.github.io/" rel="alternate" type="text/html" /><updated>2018-08-24T04:56:05+00:00</updated><id>https://jobijoba.github.io/</id><title type="html">Read Write Speak Thai - Free App to learn Thai</title><subtitle>Read write speak thai, mobile application on iOS and Android to learn to read Thai. Color the tone, read sentences and words. 
 </subtitle><entry><title type="html">No sound or want to change to a male voice ? Samsung phone</title><link href="https://jobijoba.github.io/samsung-no-sound/" rel="alternate" type="text/html" title="No sound or want to change to a male voice ? Samsung phone" /><published>2018-08-24T00:00:00+00:00</published><updated>2018-08-24T00:00:00+00:00</updated><id>https://jobijoba.github.io/samsung-no-sound</id><content type="html" xml:base="https://jobijoba.github.io/samsung-no-sound/">&lt;p&gt;If you don’t have any &lt;strong&gt;sound&lt;/strong&gt; in the app and you have a &lt;strong&gt;samsung phone&lt;/strong&gt;, follow this steps to change the Text-To-Speech from Samsung to the Google one.&lt;/p&gt;
 
 &lt;p&gt;Unfortunately, Samsung have made their own Text-To-Speech system but without the Thai language in it. Thankfully, all Android phone have the &lt;strong&gt;Google Text-To-Speech&lt;/strong&gt; pre-installed which have the Thai language.&lt;/p&gt;
@@ -9,38 +9,42 @@
   &lt;li&gt;
     &lt;p&gt;Go to your &lt;strong&gt;Settings&lt;/strong&gt; and Select &lt;strong&gt;Accessibility&lt;/strong&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;img src=&quot;/asssets/img/Screenshot_20180824-110607-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/assets/img/Screenshot_20180824-110607-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Select &lt;strong&gt;Text-To-Speech&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/asssets/img/Screenshot_20180824-110620.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Screenshot_20180824-110620.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Select &lt;strong&gt;Google Text-to-Speech(2)&lt;/strong&gt; then click on the small &lt;strong&gt;gear icon (settings - 3)&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/asssets/img/Screenshot_20180824-110626.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Screenshot_20180824-110626.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Click &lt;strong&gt;Install voice data&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/asssets/img/Screenshot_20180824-110639.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Screenshot_20180824-110639.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Select &lt;strong&gt;Thai&lt;/strong&gt; from the list&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/asssets/img/Screenshot_20180824-110646.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Screenshot_20180824-110646.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Choose a &lt;strong&gt;voice.&lt;/strong&gt; You can take wath ever voice you want, there is male and female voice.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/asssets/img/Screenshot_20180824-110650.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Screenshot_20180824-110650.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Restart &lt;strong&gt;Read Write Speak Thai application&lt;/strong&gt; and click on Play from anywhere, it should work (you might have a small delay the first time).&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;I hope this will help you ;)&lt;/p&gt;
 
