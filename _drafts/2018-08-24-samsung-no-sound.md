@@ -2,7 +2,7 @@
 title: No sound or want to change to a male voice ? Samsung phone
 layout: post
 date: 2018-08-24 00:00:00 +0000
-img: ''
+img: "/coverpic.png"
 description: 'If you don''t have any sound in the app and you have a samsung phone,
   follow this steps '
 
