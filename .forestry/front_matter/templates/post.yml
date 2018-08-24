@@ -24,6 +24,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/2018-08-24-samsung-no-sound.md
 - _posts/2018-08-18-a-small-feature-to-rules-them-all.md
 - _posts/2018-08-16-7-new-games-in-app.md
 - _posts/2018-08-08-a-curated-feed-in-app.md
