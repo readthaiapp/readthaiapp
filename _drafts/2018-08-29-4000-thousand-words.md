@@ -13,7 +13,7 @@ To prepare the mode where people can add their own sentences, I needed a huge se
 
 But yeah ... putting the whole dictionary in the app would have take months so I've decided to add Chulalongkorn University’s frequency list which contains 4000 thousand words.
 
- 
+For those who don't know where is Chulalongkorn University, it's in the heart of Bangkok (Is that info important ? not really but I was curious ^^) 
 
 ![](assets/img/Screen Shot 2018-08-29 at 14.48.28.png)
 
