@@ -2,7 +2,7 @@
 title: '4000 thousand words and the rise of a new mode ? '
 layout: post
 date: 2018-08-29 00:00:00 +0000
-img: ''
+img: "/Screen Shot 2018-08-29 at 14.48.28.png"
 description: 'Yes, you read well ;) 4000 thousand words !! I''m adding 4000 thousand
   word to the application... '
 
