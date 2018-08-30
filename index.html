@@ -1,176 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Read Write Speak Thai - Free App to learn Thai</title>
-	<meta name="description" content="">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta property="og:image" content="">
-	<link rel="shortcut icon" href=" /assets/img/favicon/favicon.ico " type="image/x-icon">
-	<link rel="apple-touch-icon" href=" /assets/img/favicon/apple-touch-icon.png ">
-	<!-- Chrome, Firefox OS and Opera -->
-	<meta name="theme-color" content="#2d2a2a">
-	<!-- Windows Phone -->
-	<meta name="msapplication-navbutton-color" content="#2d2a2a">
-	<!-- iOS Safari -->
-	<meta name="apple-mobile-web-app-status-bar-style" content="#2d2a2a">
-
-	<link href="https://fonts.googleapis.com/css?family=Finger+Paint|PT+Sans:400,700" rel="stylesheet">
-	<link rel="stylesheet" href=" /assets/fonts/font-awesome/css/font-awesome.min.css ">
-	<link rel="stylesheet" href=" /assets/css/main.css ">
-</head>
-<body>
-
-  <aside class="sidebar">
-
-  <div class="sidebar-container">
-    <div class="sidebar-logo">
-      <a href="/" class="logo">
-        <img src=/assets/img/logo.png alt="logo">
-      </a>
-
-    </div>
-
-    <menu class="sidebar-menu">
-      <li class="logoSpecial">
-        <a href='https://play.google.com/store/apps/details?id=com.joba.readthaifun&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-          <img class="small-img" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'
-          />
-        </a>
-        <a href='https://itunes.apple.com/us/app/read-thai-fun/id1390982225'>
-          <img class="small-img" alt='Get it on Google Play' src='/assets/img/logoApple.png' />
-        </a>
-
-
-      </li>
-
-      <li class="menu-items">
-        <a class="menu-links" href="/">Home</a>
-      </li>
-      <li class="menu-items">
-        <a class="menu-links" href="/about/">About</a>
-      </li>
-      <li class="menu-items">
-        <a class="menu-links" href="/contact/">Contact</a>
-      </li>
-      <li class="menu-items">
-        <a class="menu-links" href="/roadmap/">Roadmap</a>
-      </li>
-
-    </menu>
-
-    <div class="sidebar-social">
-      <li class="social-items">
-        <a href="https://www.facebook.com/readthaifunapp" class="social-links">
-          <i class="social-icons fa fa-facebook" aria-hidden="true"></i>
-        </a>
-      </li>
-      <li class="social-items">
-        <a href="https://twitter.com/joba_react" class="social-links">
-          <i class="social-icons fa fa-twitter" aria-hidden="true"></i>
-        </a>
-      </li>
-      <li class="social-items">
-        <a href="https://twitter.com/readthaifun_app" class="social-links">
-          <i class="social-icons fa fa-instagram" aria-hidden="true"></i>
-        </a>
-      </li>
-    </div>
-
-  </div>
-</aside>
-
-  <main role="main">
-    <div class="content">
-      
+--- layout: default --- {% for post in paginator.posts %}
 <article class="main-article">
   <div class="wrap-content">
     <header class="header-article">
-      <h2 class="title-article"><a href="/4000-thousand-words/">4000 thousand words and the rise of a new mode ? </a></h2>
-      <div class="post-date"><span>2018, Aug 29&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+      <h2 class="title-article"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+      <div class="post-date"><span>{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
     </header>
-    
-       <img class="post-image" src=/assets/img//mapChula.png alt="4000 thousand words and the rise of a new mode ? ">
-    
-    <p>Yes, you read well ;) 4000 thousand words !! I'm adding 4000 thousand word to the application...  <a class="more" href="/4000-thousand-words/">(Read more...)</a></p>
+    {% if post.img %}
+    <a href="{{post.url | prepend: site.baseurl}}"><img class="post-image" src={{ "/assets/img/" | prepend: site.baseurl
+        | append: post.img }} alt="{{post.title}}"></a>
+    {% endif %}
+    <p>{{post.description}} <a class="more" href="{{post.url | prepend: site.baseurl}}">(Read more...)</a></p>
   </div>
 </article>
-
-<article class="main-article">
-  <div class="wrap-content">
-    <header class="header-article">
-      <h2 class="title-article"><a href="/samsung-no-sound/">No sound or want to change to a male voice ? Samsung phone</a></h2>
-      <div class="post-date"><span>2018, Aug 24&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
-    </header>
-    
-       <img class="post-image" src=/assets/img//coverpic.png alt="No sound or want to change to a male voice ? Samsung phone">
-    
-    <p>If you don't have any sound in the app and you have a samsung phone, follow this steps  <a class="more" href="/samsung-no-sound/">(Read more...)</a></p>
-  </div>
-</article>
-
-<article class="main-article">
-  <div class="wrap-content">
-    <header class="header-article">
-      <h2 class="title-article"><a href="/a-small-feature-to-rules-them-all/">A small feature to rules them all</a></h2>
-      <div class="post-date"><span>2018, Aug 18&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
-    </header>
-    
-       <img class="post-image" src=/assets/img//TwoButton.jpg alt="A small feature to rules them all">
-    
-    <p>I'm not sure about the title but ... I've added a small feature which tend to be reaaaaaaaaaaalllllyyy useful for people exercising the different font ;)  <a class="more" href="/a-small-feature-to-rules-them-all/">(Read more...)</a></p>
-  </div>
-</article>
-
-<article class="main-article">
-  <div class="wrap-content">
-    <header class="header-article">
-      <h2 class="title-article"><a href="/7-new-games-in-app/">7 new games in app to practice your Thai reading</a></h2>
-      <div class="post-date"><span>2018, Aug 16&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
-    </header>
-    
-       <img class="post-image" src=/assets/img//banner1024.jpg alt="7 new games in app to practice your Thai reading">
-    
-    <p>A new major added feature to the app, Games ! Test yourself with 7 new games <a class="more" href="/7-new-games-in-app/">(Read more...)</a></p>
-  </div>
-</article>
-
-<article class="main-article">
-  <div class="wrap-content">
-    <header class="header-article">
-      <h2 class="title-article"><a href="/a-curated-feed-in-app/">A curated feed in app</a></h2>
-      <div class="post-date"><span>2018, Aug 08&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
-    </header>
-    
-       <img class="post-image" src=/assets/img//blogCurated.png alt="A curated feed in app">
-    
-    <p>What about a curated content from all the social media inside the app ? <a class="more" href="/a-curated-feed-in-app/">(Read more...)</a></p>
-  </div>
-</article>
-
+{% endfor %}
 
 <div class="pagination">
-  
-    <span class="previous"><i class="fa fa-chevron-left" aria-hidden="true"></i> Previous</span>
-  
-  
-    <a href="/page2/" class="next">Next <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-  
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="previous"><i class="fa fa-chevron-left"
+      aria-hidden="true"></i> Previous</a>
+  {% else %}
+  <span class="previous"><i class="fa fa-chevron-left" aria-hidden="true"></i> Previous</span>
+  {% endif %} {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next">Next <i class="fa fa-chevron-right"
+      aria-hidden="true"></i></a>
+  {% else %}
+  <span class="next ">Next <i class="fa fa-chevron-right" aria-hidden="true"></i></span>
+  {% endif %}
 </div>
-
-    </div>
-  </main>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-120912935-2', 'auto');
-  ga('send', 'pageview');
-</script>
-
-</body>
-</html>
