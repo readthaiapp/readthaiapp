@@ -1,6 +1,7 @@
---- 
-layout: default 
---- 
+---
+layout: default
+canonical: ok
+---
 
 {% for post in paginator.posts %}
 <article class="main-article">
@@ -11,7 +12,8 @@ layout: default
     </header>
     {% if post.img %}
     <a href="{{post.url | prepend: site.baseurl}}"><img class="post-image" src={{ "/assets/img/" | prepend: site.baseurl
-        | append: post.img }} alt="{{post.title}}"></a>
+        | append: post.img }}
+        alt="{{post.title}}"></a>
     {% endif %}
     <p>{{post.description}} <a class="more" href="{{post.url | prepend: site.baseurl}}">(Read more...)</a></p>
   </div>
