@@ -10,11 +10,13 @@ description: 'Let''s all welcome our new member in the Team of Read Write Speak 
 ---
 **Read Write Speak Thai** intend to help intermediate learner to have a **user-friendly** ressource to practice their **Thai reading skill** through **coloration** of the Thai tone.
 
-At the same time, we want you to read content which is useful to have a kind of **WIN-WIN mode** where you improve your reading skill but also enrich your vocabulary. 
+At the same time, we want you to read content which is useful to have a kind of **WIN-WIN mode** where you improve your reading skill but also enrich your vocabulary.
 
 That's why, **Piriya** is joining me in the team to write **meaningful** and **usable** sentences for the real world.
 
 **Piriya** is a professional translator **English/Thai** which has a lot of experiences **translating website/documents/etc.**.. Feel free to use the contact form if you need **any kind of translations work** done by her.
+
+She already made more than a **hundred** **sentences** which have been **published** **today** in the app! Hope you are going to **enjoy it!**
 
 ## Wait that's not all...
 
