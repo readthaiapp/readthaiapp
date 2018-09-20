@@ -25,7 +25,6 @@ fields:
       format: markdown
 pages:
 - _posts/2018-09-10-a-new-member-in-the-team.md
-- _posts/2018-08-18-the-next-feature-add-your-own-set-of-sentences-words.md
 - _posts/2018-08-29-4000-thousand-words.md
 - _posts/2018-08-08-a-curated-feed-in-app.md
 - _posts/2018-09-06-start-at-a-specific-slide.md
