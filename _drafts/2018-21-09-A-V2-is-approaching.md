@@ -2,7 +2,7 @@
 title: A v2 is approaching!
 layout: post
 date: 2018-09-21 00:00:00 +0000
-img: ''
+img: "/v2.png"
 description: I'm always looking for the best way to learn languages... which probably
   take a lot of my time instead of really learning the language itself ... but wait
   ! I've found something wonderful
