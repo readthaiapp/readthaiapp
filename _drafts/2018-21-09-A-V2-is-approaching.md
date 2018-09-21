@@ -12,7 +12,7 @@ Do you know Lýdia Machová ?
 
 She's a **polyglot** (She speaks 9+ **languages**) and **organize** the Polyglot Gathering, a really cool event inviting a lot of polyglot and they share their experiences! 
 
-One of the talk of Lýdia is this one : [The Power of Setting Priorities in Language Learning](https://www.youtube.com/watch?v=eT7dx52wIC8) that you can watch on YouTube for free where she delivers her "**way**" to **learn language**. 
+One of the talk of Lýdia is this one : [The Power of Setting Priorities in Language Learning](https://www.youtube.com/watch?v=eT7dx52wIC8) that you can watch on YouTube for free where she delivers her "**way**" to **learn language**. (I really recommend you to watch all those videos they are fantastic ;) ) 
 
 A brief summary of it: 
 
@@ -68,4 +68,14 @@ Each action in the app will let you earn point (**Reading x sentences = 15 pts)*
 
 A screen will shows you your weekly/monthly effort on learning the language as a kind of tracker, depending on the skill. 
 
- 
+#### When? 
+
+Well, this blogpost is the premise of the development ... nothing has been developed yet because I'm still in the analyse phases gathering information about technical issues, etc. 
+
+I don't have an ETA date yet as this is a side project for me I work on it when I get time.
+
+#### Can I participate ?
+
+I accept any kind of help ;) Your feedback about this blogpost is already something! 
+
+Any idea which will improve the next concept, a resource that you create that you think should be in the app, feel free to contact me ^^
