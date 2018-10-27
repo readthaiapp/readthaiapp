@@ -24,6 +24,7 @@ fields:
     schema:
       format: markdown
 pages:
+- _posts/2018-27-10-a-new-pack-of-sentences.md
 - _posts/2018-29-09-new-feature-and-sentences.md
 - _posts/2018-21-09-A-V2-is-approaching.md
 - _posts/2018-09-10-a-new-member-in-the-team.md
