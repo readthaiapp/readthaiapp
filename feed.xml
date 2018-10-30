@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="https://readthaiapp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://readthaiapp.github.io/" rel="alternate" type="text/html" /><updated>2018-10-30T03:35:39+00:00</updated><id>https://readthaiapp.github.io/</id><title type="html">Read Write Speak Thai - Free App to learn Thai</title><subtitle>Read write speak thai, mobile application on iOS and Android to learn to read Thai. Color the tone, read sentences and words.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://readthaiapp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://readthaiapp.github.io/" rel="alternate" type="text/html" /><updated>2018-10-30T04:57:11+00:00</updated><id>https://readthaiapp.github.io/feed.xml</id><title type="html">Read Write Speak Thai - Free App to learn Thai</title><subtitle>Read write speak thai, mobile application on iOS and Android to learn to read Thai. Color the tone, read sentences and words.
 </subtitle><entry><title type="html">A new pack of sentences !</title><link href="https://readthaiapp.github.io/a-new-pack-of-sentences/" rel="alternate" type="text/html" title="A new pack of sentences !" /><published>2018-10-27T00:00:00+00:00</published><updated>2018-10-27T00:00:00+00:00</updated><id>https://readthaiapp.github.io/a-new-pack-of-sentences</id><content type="html" xml:base="https://readthaiapp.github.io/a-new-pack-of-sentences/">&lt;p&gt;Good news!&lt;/p&gt;
 
 &lt;p&gt;The app is now on his version 6.2.7 with an added set of 412 sentences!&lt;/p&gt;
@@ -36,7 +36,7 @@
 
 &lt;p&gt;She exposes a really nice system which is the following:&lt;/p&gt;
 
-&lt;p&gt;For a &lt;strong&gt;chunk of time&lt;/strong&gt; (say 2 or 3 months) you set &lt;strong&gt;priority&lt;/strong&gt; on 3 &lt;strong&gt;skills&lt;/strong&gt; that you are going to focus on. After the first chunk of time,  you set new priorities (3 &lt;strong&gt;different&lt;/strong&gt; skills, or use all the same skills, or one same and 2 different, whatever ;) )&lt;/p&gt;
+&lt;p&gt;For a &lt;strong&gt;chunk of time&lt;/strong&gt; (say 2 or 3 months) you set &lt;strong&gt;priority&lt;/strong&gt; on 3 &lt;strong&gt;skills&lt;/strong&gt; that you are going to focus on. After the first chunk of time, you set new priorities (3 &lt;strong&gt;different&lt;/strong&gt; skills, or use all the same skills, or one same and 2 different, whatever ;) )&lt;/p&gt;
 
 &lt;h4 id=&quot;the-skills-are-the-following-but-im-sure-we-can-find-some-others&quot;&gt;The skills are the following, but I’m sure we can find some others&lt;/h4&gt;
 
@@ -127,7 +127,7 @@
 
 &lt;p&gt;For those who don’t know where is Chulalongkorn University, it’s in the heart of Bangkok (Is that info important ? not really but I was curious ^^)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/img/mapChula.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/img/mapChula.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And they have a really nice &lt;a href=&quot;https://www.chula.ac.th/en/&quot;&gt;website&lt;/a&gt; (I invite you to look at it ^^)&lt;/p&gt;
 
@@ -157,38 +157,38 @@
   &lt;li&gt;
     &lt;p&gt;Go to your &lt;strong&gt;Settings&lt;/strong&gt; and Select &lt;strong&gt;Accessibility&lt;/strong&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;img src=&quot;/assets/img/Screenshot_20180824-110607-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/assets/img/Screen1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Select &lt;strong&gt;Text-To-Speech&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Screenshot_20180824-110620.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Screen2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Select &lt;strong&gt;Google Text-to-Speech(2)&lt;/strong&gt; then click on the small &lt;strong&gt;gear icon (settings - 3)&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Screenshot_20180824-110626.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Screen3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Click &lt;strong&gt;Install voice data&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Screenshot_20180824-110639.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Screen4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Select &lt;strong&gt;Thai&lt;/strong&gt; from the list&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Screenshot_20180824-110646.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Screen5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Choose a &lt;strong&gt;voice.&lt;/strong&gt; You can take wath ever voice you want, there is male and female voice.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Screenshot_20180824-110650.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Screen6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Restart &lt;strong&gt;Read Write Speak Thai application&lt;/strong&gt; and click on Play from anywhere, it should work (you might have a small delay the first time).&lt;/li&gt;

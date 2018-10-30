@@ -59,8 +59,8 @@
 
 	<link href="https://fonts.googleapis.com/css?family=Finger+Paint|PT+Sans:400,700" rel="stylesheet">
 	<link rel="stylesheet" href=" /assets/fonts/font-awesome/css/font-awesome.min.css ">
-	<link rel="stylesheet" href=" /assets/css/main.css ">
 
+	<link rel="stylesheet" type="text/css" integrity="sha256-ZOPRo4MX2gVxLhmNglLXhZcB7bQSIID/vAGlhPIIIcI=" crossorigin="anonymous" href="/assets/main-64e3d1a38317da05712e198d8252d7859701edb4122080ffbc01a584f20821c2.css">
 	
 </head>
 <body>
@@ -165,18 +165,17 @@
 
 <p>Let’s take an example:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="w">
-      </span><span class="nt">"id"</span><span class="p">:</span><span class="w"> </span><span class="mi">110</span><span class="p">,</span><span class="w">
-      </span><span class="nt">"thaiSentence"</span><span class="p">:</span><span class="w"> </span><span class="s2">"คุณใจดีมาก"</span><span class="p">,</span><span class="w">
-      </span><span class="nt">"categories"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="mi">10</span><span class="p">,</span><span class="w"> </span><span class="mi">11</span><span class="p">],</span><span class="w">
-      </span><span class="nt">"source"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="mi">1</span><span class="p">],</span><span class="w">
-      </span><span class="nt">"words"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="mi">54</span><span class="p">,</span><span class="w"> </span><span class="mi">237</span><span class="p">,</span><span class="w"> </span><span class="mi">84</span><span class="p">],</span><span class="w">
-      </span><span class="nt">"translations"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-        </span><span class="nt">"english"</span><span class="p">:</span><span class="w"> </span><span class="s2">"You are very kind."</span><span class="w">
-      </span><span class="p">}</span><span class="w">
-    </span><span class="p">}</span><span class="err">,</span><span class="w">
-</span></code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
+      "id": 110,
+      "thaiSentence": "คุณใจดีมาก",
+      "categories": [10, 11],
+      "source": [1],
+      "words": [54, 237, 84],
+      "translations": {
+        "english": "You are very kind."
+      }
+    },
+</code></pre></div></div>
 
 <p>That’s what we have behind the scene for each sentence.</p>
 
@@ -184,16 +183,15 @@
 
 <p>If we look at 84 for example:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="w"> </span><span class="p">{</span><span class="w">
-      </span><span class="nt">"id"</span><span class="p">:</span><span class="w"> </span><span class="mi">84</span><span class="p">,</span><span class="w">
-      </span><span class="nt">"word"</span><span class="p">:</span><span class="w"> </span><span class="s2">"มาก"</span><span class="p">,</span><span class="w">
-      </span><span class="nt">"tone"</span><span class="p">:</span><span class="w"> </span><span class="s2">"F"</span><span class="p">,</span><span class="w">
-      </span><span class="nt">"translations"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"english"</span><span class="p">:</span><span class="w"> </span><span class="s2">"A lot"</span><span class="w"> </span><span class="p">},</span><span class="w">
-      </span><span class="nt">"linkedWord"</span><span class="p">:</span><span class="w"> </span><span class="p">[],</span><span class="w">
-      </span><span class="nt">"synonym"</span><span class="p">:</span><span class="w"> </span><span class="p">[],</span><span class="w">
-    </span><span class="err">},</span><span class="w">
-</span></code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> {
+      "id": 84,
+      "word": "มาก",
+      "tone": "F",
+      "translations": { "english": "A lot" },
+      "linkedWord": [],
+      "synonym": [],
+    },
+</code></pre></div></div>
 
 <p>A word have his definition in thai, a tone, a translation in english (that’s the required minimum).</p>
 

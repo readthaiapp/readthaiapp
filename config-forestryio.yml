@@ -18,8 +18,6 @@ analytics: UA-120912935-2
 discus-identifier: readthaiapp
 paginate: 5
 paginate_path: "/page:num/"
-plugins:
-- jekyll-minifier
 markdown: kramdown
 gems:
 - jekyll-feed
@@ -31,27 +29,23 @@ exclude:
 include:
 - pages
 sass:
-  sass_dir: _sass
-  style: compressed
-jekyll-minifier:
-  preserve_php: true
-  remove_spaces_inside_tags: true
-  remove_multi_spaces: true
-  remove_comments: true
-  remove_intertag_spaces: true
-  remove_quotes: false
-  compress_css: true
-  compress_javascript: true
-  simple_doctype: false
-  remove_script_attributes: false
-  remove_style_attributes: false
-  remove_link_attributes: false
-  remove_form_attributes: false
-  remove_input_attributes: false
-  remove_javascript_protocol: false
-  remove_http_protocol: false
-  remove_https_protocol: false
-  preserve_line_breaks: false
-  simple_boolean_attributes: false
-  compress_js_templates: false
+  style: compact
+plugins_dir:
+- jekyll-assets
+assets:
+  source_maps: false
+  destination: "/assets"
+  compression: true
+  gzip: true
+  defaults:
+    js:
+      integrity: true
+    css:
+      integrity: true
+    img:
+      integrity: true
+  caching:
+    path: ".jekyll-cache/assets"
+    type: file
+    enabled: true
 timezone: Etc/UTC
