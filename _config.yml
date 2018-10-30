@@ -27,41 +27,33 @@ paginate: 5
 paginate_path: /page:num/
 
 # Build settings
-plugins:
-  - jekyll-minifier
 
 markdown: kramdown
 gems:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+
 exclude:
   - Gemfile
   - Gemfile.lock
 include: [pages]
 
 sass:
-  sass_dir: _sass
-  style: compressed
+  style: compact
 
-jekyll-minifier:
-  preserve_php: true # Default: false
-  remove_spaces_inside_tags: true # Default: true
-  remove_multi_spaces: true # Default: true
-  remove_comments: true # Default: true
-  remove_intertag_spaces: true # Default: false
-  remove_quotes: false # Default: false
-  compress_css: true # Default: true
-  compress_javascript: true # Default: true
-  simple_doctype: false # Default: false
-  remove_script_attributes: false # Default: false
-  remove_style_attributes: false # Default: false
-  remove_link_attributes: false # Default: false
-  remove_form_attributes: false # Default: false
-  remove_input_attributes: false # Default: false
-  remove_javascript_protocol: false # Default: false
-  remove_http_protocol: false # Default: false
-  remove_https_protocol: false # Default: false
-  preserve_line_breaks: false # Default: false
-  simple_boolean_attributes: false # Default: false
-  compress_js_templates: false # Default: false
+plugins_dir:
+  - jekyll-assets
+assets:
+  source_maps: false # false on JEKYLL_ENV=production
+  destination: "/assets"
+  compression: true # true on JEKYLL_ENV=production
+  gzip: true
+  defaults:
+    js: { integrity: true } # true on JEKYLL_ENV=production
+    css: { integrity: true } # true on JEKYLL_ENV=production
+    img: { integrity: true } # true on JEKYLL_ENV=production
+  caching:
+    path: ".jekyll-cache/assets"
+    type: file # Possible values: memory, file
+    enabled: true

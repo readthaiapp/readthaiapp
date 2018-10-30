@@ -2,7 +2,7 @@
 title: "4000 thousand words and the rise of a new mode ? "
 layout: post
 date: 2018-08-29 00:00:00 +0000
-img: "/mapChula.png"
+img: "/mapChula.jpg"
 description:
   "Yes, you read well ;) 4000 thousand words !! I'm adding 4000 thousand
   word to the application... "
@@ -16,7 +16,7 @@ But yeah ... putting the whole dictionary in the app would have take months so I
 
 For those who don't know where is Chulalongkorn University, it's in the heart of Bangkok (Is that info important ? not really but I was curious ^^)
 
-![](assets/img/mapChula.png)
+![](assets/img/mapChula.jpg)
 
 And they have a really nice [website](https://www.chula.ac.th/en/) (I invite you to look at it ^^)
 

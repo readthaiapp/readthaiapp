@@ -2,7 +2,7 @@
 title: No sound or want to change to a male voice ? Samsung phone
 layout: post
 date: 2018-08-24 00:00:00 +0000
-img: "/coverpic.png"
+img: "/coverpic.jpg"
 description:
   "If you don't have any sound in the app and you have a samsung phone,
   follow this steps "
@@ -16,27 +16,27 @@ Also, if you want to switch from a female voice to a male voice, follow the same
 
 1. Go to your **Settings** and Select **Accessibility**
 
-   ![](/assets/img/Screenshot_20180824-110607-1.png)
+   ![](/assets/img/Screen1.png)
 
 2. Select **Text-To-Speech**
 
-![](/assets/img/Screenshot_20180824-110620.png)
+![](/assets/img/Screen2.png)
 
 3. Select **Google Text-to-Speech(2)** then click on the small **gear icon (settings - 3)**
 
-![](/assets/img/Screenshot_20180824-110626.png)
+![](/assets/img/Screen3.png)
 
 4. Click **Install voice data**
 
-![](/assets/img/Screenshot_20180824-110639.png)
+![](/assets/img/Screen4.png)
 
 5. Select **Thai** from the list
 
-![](/assets/img/Screenshot_20180824-110646.png)
+![](/assets/img/Screen5.png)
 
 6. Choose a **voice.** You can take wath ever voice you want, there is male and female voice.
 
-![](/assets/img/Screenshot_20180824-110650.png)
+![](/assets/img/Screen6.png)
 
 7. Restart **Read Write Speak Thai application** and click on Play from anywhere, it should work (you might have a small delay the first time).
 
