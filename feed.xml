@@ -1,5 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://readthaiapp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://readthaiapp.github.io/" rel="alternate" type="text/html" /><updated>2018-10-31T02:21:00+00:00</updated><id>https://readthaiapp.github.io/feed.xml</id><title type="html">Read Write Speak Thai - Free App to learn Thai</title><subtitle>Read write speak thai, mobile application on iOS and Android to learn to read Thai. Color the tone, read sentences and words.
-</subtitle><entry><title type="html">A new pack of sentences !</title><link href="https://readthaiapp.github.io/a-new-pack-of-sentences/" rel="alternate" type="text/html" title="A new pack of sentences !" /><published>2018-10-27T00:00:00+00:00</published><updated>2018-10-27T00:00:00+00:00</updated><id>https://readthaiapp.github.io/a-new-pack-of-sentences</id><content type="html" xml:base="https://readthaiapp.github.io/a-new-pack-of-sentences/">&lt;p&gt;Good news!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://readthaiapp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://readthaiapp.github.io/" rel="alternate" type="text/html" /><updated>2018-10-31T02:26:48+00:00</updated><id>https://readthaiapp.github.io/feed.xml</id><title type="html">Read Write Speak Thai - Free App to learn Thai</title><subtitle>Read write speak thai, mobile application on iOS and Android to learn to read Thai. Color the tone, read sentences and words.
+</subtitle><entry><title type="html">Small conversations in app - v6.2.8</title><link href="https://readthaiapp.github.io/small-conversations-in-app/" rel="alternate" type="text/html" title="Small conversations in app - v6.2.8" /><published>2018-10-31T00:00:00+00:00</published><updated>2018-10-31T00:00:00+00:00</updated><id>https://readthaiapp.github.io/small-conversations-in-app</id><content type="html" xml:base="https://readthaiapp.github.io/small-conversations-in-app/">&lt;p&gt;The goal of the app is to provide you, &lt;strong&gt;ressources&lt;/strong&gt; and &lt;strong&gt;tools&lt;/strong&gt; to practice and improve your Thai.&lt;/p&gt;
+
+&lt;p&gt;We first started with &lt;strong&gt;colorised sentences&lt;/strong&gt; (to show the tone easily) plus a set of tools like &lt;strong&gt;Play the sentence&lt;/strong&gt;, &lt;strong&gt;Play the word&lt;/strong&gt;, &lt;strong&gt;Search in Thai or in English&lt;/strong&gt; a set of sentences, &lt;strong&gt;Copy&lt;/strong&gt; the sentences to &lt;strong&gt;paste&lt;/strong&gt; it somewhere else, &lt;strong&gt;Loop&lt;/strong&gt; over and over the sentence to shadow it, etc etc&lt;/p&gt;
+
+&lt;p&gt;Then, we added the &lt;strong&gt;Consonants&lt;/strong&gt;, &lt;strong&gt;Vowels&lt;/strong&gt; and &lt;strong&gt;Numbers&lt;/strong&gt; to quickly be able to find one of those symbols which we always forget ;)&lt;/p&gt;
+
+&lt;p&gt;Came later on the &lt;strong&gt;Text-To-Speech&lt;/strong&gt; tool to be able to loop/hear the pronunciation of your own sentences.&lt;/p&gt;
+
+&lt;p&gt;A bit after, the &lt;strong&gt;Daily Sentences&lt;/strong&gt; which remind you to come back to practice a set of sentences^^&lt;/p&gt;
+
+&lt;p&gt;Finally, the last major feature added was the &lt;strong&gt;games&lt;/strong&gt; to test yourself on all those ressources ;)&lt;/p&gt;
+
+&lt;p&gt;And now… &lt;strong&gt;Conversations!&lt;/strong&gt; Yet another feature/ressource which we hope will help you on your journey to master Thai language.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt; is very important when learning new sentences/languages, with small conversations, we have the chance to show you the context, how the words are used, and small simulation of life that you might use one day.&lt;/p&gt;
+
+&lt;p&gt;Right now, there are 10 conversations available but we hope to grow that number for every new releases.&lt;/p&gt;
+
+&lt;p&gt;If you have interesting &lt;strong&gt;conversations&lt;/strong&gt; that you want to &lt;strong&gt;share&lt;/strong&gt; with everyone, please feel free to send it to us.&lt;/p&gt;</content><author><name></name></author><summary type="html">The goal of the app is to provide you, ressources and tools to practice and improve your Thai.</summary></entry><entry><title type="html">A new pack of sentences !</title><link href="https://readthaiapp.github.io/a-new-pack-of-sentences/" rel="alternate" type="text/html" title="A new pack of sentences !" /><published>2018-10-27T00:00:00+00:00</published><updated>2018-10-27T00:00:00+00:00</updated><id>https://readthaiapp.github.io/a-new-pack-of-sentences</id><content type="html" xml:base="https://readthaiapp.github.io/a-new-pack-of-sentences/">&lt;p&gt;Good news!&lt;/p&gt;
 
 &lt;p&gt;The app is now on his version 6.2.7 with an added set of 412 sentences!&lt;/p&gt;
 
@@ -248,43 +266,4 @@
 
 &lt;p&gt;If you have any kind of issue or suggestions or feature request, same same ! send us an email, post here under the blog post or what ever we listen all our channel ;)&lt;/p&gt;
 
-&lt;p&gt;Put a review on the store, it help us to reach more peoples, more ideas, more motivations ;)&lt;/p&gt;</content><author><name></name></author><summary type="html">Wow Wow Wow ! It has been a crazy week of development to pop this really useful feature in the app!</summary></entry><entry><title type="html">A curated feed in app</title><link href="https://readthaiapp.github.io/a-curated-feed-in-app/" rel="alternate" type="text/html" title="A curated feed in app" /><published>2018-08-08T00:00:00+00:00</published><updated>2018-08-08T00:00:00+00:00</updated><id>https://readthaiapp.github.io/a-curated-feed-in-app</id><content type="html" xml:base="https://readthaiapp.github.io/a-curated-feed-in-app/">&lt;p&gt;There is a lot of very nice ressource made by people to teach Thai language available on Youtube, Instagram, Twitter, etc…&lt;/p&gt;
-
-&lt;p&gt;I’m quite sure that you’ve already shared one of those video to a friend… “Hey look at that video it explains super well the consonant in Thai”&lt;/p&gt;
-
-&lt;h2 id=&quot;the-idea&quot;&gt;The idea&lt;/h2&gt;
-
-&lt;p&gt;So yeah, that’s the main idea, no more to say ^^&lt;/p&gt;
-
-&lt;p&gt;I’m watching a lot of Youtube video, and follow instagram feed which help me in my regular basis to learn some new stuff.&lt;/p&gt;
-
-&lt;p&gt;That’s why I would like to be able to find those kind of video quite easily and fast inside the application.&lt;/p&gt;
-
-&lt;p&gt;The list will be managed by me mainly, but wait wait … soon there will be an account feature, so you’ll be able to create your account and actively participate to the content of Read Write Speak Thai.&lt;/p&gt;
-
-&lt;p&gt;Also, I understand that some people are creating those content to promote their service (Teacher, School, etc), That’s why I’m also thinking of creating a “&lt;strong&gt;Page&lt;/strong&gt;” per &lt;strong&gt;Content Creator&lt;/strong&gt;, to promote their service inside the app. It would be interesting as a Thai learner to have access to all those information within the app.&lt;/p&gt;
-
-&lt;h2 id=&quot;when&quot;&gt;When?&lt;/h2&gt;
-
-&lt;p&gt;This is my next development task after the release of the Daily Sentence mode.&lt;/p&gt;
-
-&lt;p&gt;It will probably take a month to develop and test before deploying it to the public.&lt;/p&gt;
-
-&lt;h2 id=&quot;can-i-help-&quot;&gt;Can I help ?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Yes ;)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Tell me if something like that would interest you! I really need some feedback … I’m developing this application for me, but also everyone which are interested in learning Thai.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Yes again!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Give a review on the store (App store or Android Store) that is **helping A LOT.&lt;br /&gt;
-**More users on the app, more is my motivation to continue that project ;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Yes three!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you have some very good video / ressource that you think should be in that curated list, feel free to send me a message (Facebook, email, form here on the site) with the address.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Yes FOUR! (ok that’s the last one).&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you are a content creator, and want a page on the app, please contact me, I’ll submit to you a small form to get the necessary information to create the page for you. It’s all free, no fee or else so don’t worry ;)&lt;/p&gt;</content><author><name></name></author><summary type="html">There is a lot of very nice ressource made by people to teach Thai language available on Youtube, Instagram, Twitter, etc…</summary></entry></feed>
+&lt;p&gt;Put a review on the store, it help us to reach more peoples, more ideas, more motivations ;)&lt;/p&gt;</content><author><name></name></author><summary type="html">Wow Wow Wow ! It has been a crazy week of development to pop this really useful feature in the app!</summary></entry></feed>
