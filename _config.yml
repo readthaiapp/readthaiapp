@@ -15,6 +15,15 @@ twitter: joba_react #Add your Twitter
 instagram: readthaifun_app #Add your Google+
 github: #Add your Github
 
+# Other
+collections:
+  features:
+    output: true
+    permalink: /:title
+  posts:
+    output: true
+    permalink: /:title
+
 # Contact form
 email: readthaifunapp@gmail.com #your-email@domain.com
 
@@ -45,9 +54,9 @@ sass:
 plugins_dir:
   - jekyll-assets
 assets:
-  source_maps: false # false on JEKYLL_ENV=production
+  source_maps: true # false on JEKYLL_ENV=production
   destination: "/assets"
-  compression: true # true on JEKYLL_ENV=production
+  compression: false # true on JEKYLL_ENV=production
   gzip: true
   defaults:
     js: { integrity: true } # true on JEKYLL_ENV=production
@@ -56,4 +65,4 @@ assets:
   caching:
     path: ".jekyll-cache/assets"
     type: file # Possible values: memory, file
-    enabled: true
+    enabled: false

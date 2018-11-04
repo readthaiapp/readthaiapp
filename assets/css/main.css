@@ -824,7 +824,7 @@ pre code {
   text-transform: uppercase;
   display: block;
   text-decoration: none;
-  padding: 1rem 1.3rem;
+  padding: 0.6rem 1.3rem;
   color: #fff;
   font-weight: 700;
   -webkit-transition: all 0.35s;
@@ -864,6 +864,10 @@ pre code {
   font-weight: 700;
 }
 
+.logo img {
+  width: 80%;
+}
+
 .sidebar-social {
   text-align: center;
 }
@@ -889,6 +893,12 @@ pre code {
 .content {
   position: relative;
   max-width: 48rem;
+  margin-left: 22rem;
+  margin-right: 2rem;
+  padding: 4rem 1rem;
+}
+.content-odd {
+  position: relative;
   margin-left: 22rem;
   margin-right: 2rem;
   padding: 4rem 1rem;
@@ -1065,6 +1075,20 @@ img.page-img {
   .content {
     margin-left: 18rem;
   }
+
+  .content-odd {
+    margin: 0 auto;
+  }
+  .featureContent {
+    flex-direction: column !important;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .half {
+    width: 100% !important;
+  }
 }
 @media screen and (max-width: 768px) {
   .sidebar {
@@ -1075,6 +1099,20 @@ img.page-img {
 
   .content {
     margin: 0 auto;
+  }
+  .content-odd {
+    margin: 0 auto;
+  }
+
+  .featureContent {
+    flex-direction: column !important;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .half {
+    width: 100% !important;
   }
 
   .sidebar-logo,
@@ -1087,6 +1125,16 @@ img.page-img {
     margin-bottom: 0.5rem;
   }
 
+  .featureContent {
+    flex-direction: column !important;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .half {
+    width: 100%;
+  }
   .previous,
   .next {
     display: block;
@@ -1096,4 +1144,24 @@ img.page-img {
 .small-img {
   width: 150px;
   height: auto;
+}
+
+.half {
+  width: 33%;
+  margin-bottom: 3rem;
+}
+
+.whiteBg {
+  background-color: #fff;
+}
+
+.featureContent {
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.feature-title {
+  font-size: 1.5rem;
+  color: #2d2a4e !important;
 }
