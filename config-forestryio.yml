@@ -13,6 +13,13 @@ facebook: readthaifunapp
 twitter: joba_react
 instagram: readthaifun_app
 github: 
+collections:
+  features:
+    output: true
+    permalink: "/:title"
+  posts:
+    output: true
+    permalink: "/:title"
 email: readthaifunapp@gmail.com
 analytics: UA-120912935-2
 discus-identifier: readthaiapp
@@ -33,9 +40,9 @@ sass:
 plugins_dir:
 - jekyll-assets
 assets:
-  source_maps: false
+  source_maps: true
   destination: "/assets"
-  compression: true
+  compression: false
   gzip: true
   defaults:
     js:
@@ -47,5 +54,5 @@ assets:
   caching:
     path: ".jekyll-cache/assets"
     type: file
-    enabled: true
+    enabled: false
 timezone: Etc/UTC
