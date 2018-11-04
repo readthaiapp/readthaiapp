@@ -17,6 +17,14 @@ sections:
   create: all
   templates:
   - post
+- type: directory
+  path: _features
+  label: features
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - post
 upload_dir: assets/img
 public_path: assets/img
 front_matter_path: ''
