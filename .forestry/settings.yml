@@ -13,8 +13,10 @@ sections:
   create: none
   match: "**/*.{json,yaml,yml}"
 - type: jekyll-posts
-  label: features
+  label: Posts
   create: all
+  templates:
+  - post
 upload_dir: assets/img
 public_path: assets/img
 front_matter_path: ''
