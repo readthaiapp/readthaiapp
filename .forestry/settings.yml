@@ -7,6 +7,11 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
+- type: directory
+  path: _data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml}"
 - type: jekyll-posts
   label: features
   create: all
