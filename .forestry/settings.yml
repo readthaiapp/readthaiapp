@@ -22,7 +22,7 @@ sections:
   label: features
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - post
 upload_dir: assets/img
