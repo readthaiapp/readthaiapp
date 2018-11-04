@@ -1,19 +1,17 @@
+---
 new_page_extension: md
 auto_deploy: true
-? admin_path
-? webhook_url
+admin_path: 
+webhook_url: 
 sections:
-  - type: jekyll-pages
-    label: Pages
-    create: all
-  - type: jekyll-posts
-    label: Posts
-    create: all
-  - type: jekyll-posts
-    label: features
-    create: all
+- type: jekyll-pages
+  label: Pages
+  create: all
+- type: jekyll-posts
+  label: features
+  create: all
 upload_dir: assets/img
 public_path: assets/img
-front_matter_path: ""
+front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
