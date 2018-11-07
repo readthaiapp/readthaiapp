@@ -9,9 +9,6 @@ layout: default
     </header>
     <div class="page-content">
       {{page.content | markdownify}}
-      {% if page.img %}
-      <img class="page-img" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
-      {% endif %}
     </div>
     {% include disqus.html %}
   </div>
