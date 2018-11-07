@@ -1,5 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://readthaiapp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://readthaiapp.github.io/" rel="alternate" type="text/html" /><updated>2018-11-07T02:32:20+00:00</updated><id>https://readthaiapp.github.io/feed.xml</id><title type="html">Read Write Speak Thai - Free App to learn Thai</title><subtitle>Read write speak thai, mobile application on iOS and Android to learn to read Thai. Color the tone, read sentences and words.
-</subtitle><entry><title type="html">Small conversations in app - v6.2.8</title><link href="https://readthaiapp.github.io/small-conversations-in-app" rel="alternate" type="text/html" title="Small conversations in app - v6.2.8" /><published>2018-10-31T00:00:00+00:00</published><updated>2018-10-31T00:00:00+00:00</updated><id>https://readthaiapp.github.io/small-conversations-in-app</id><content type="html" xml:base="https://readthaiapp.github.io/small-conversations-in-app">&lt;p&gt;The goal of the app is to provide you, &lt;strong&gt;ressources&lt;/strong&gt; and &lt;strong&gt;tools&lt;/strong&gt; to practice and improve your Thai.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://readthaiapp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://readthaiapp.github.io/" rel="alternate" type="text/html" /><updated>2018-11-07T02:33:15+00:00</updated><id>https://readthaiapp.github.io/feed.xml</id><title type="html">Read Write Speak Thai - Free App to learn Thai</title><subtitle>Read write speak thai, mobile application on iOS and Android to learn to read Thai. Color the tone, read sentences and words.
+</subtitle><entry><title type="html">V7 is available</title><link href="https://readthaiapp.github.io/v7-is-available" rel="alternate" type="text/html" title="V7 is available" /><published>2018-11-06T04:40:00+00:00</published><updated>2018-11-06T04:40:00+00:00</updated><id>https://readthaiapp.github.io/v7-is-available</id><content type="html" xml:base="https://readthaiapp.github.io/v7-is-available">&lt;p&gt;Today, I released the version 7 of Read Write Speak Thai.&lt;/p&gt;
+
+&lt;p&gt;Here is a description of what is new inside the app.&lt;/p&gt;
+
+&lt;h2 id=&quot;remove-the-related-sentences-in-words&quot;&gt;Remove the related sentences in Words&lt;/h2&gt;
+
+&lt;p&gt;Yes … I removed it! As the database grow, that feature was slowing down the whole thing!&lt;/p&gt;
+
+&lt;p&gt;It’s coming back soon, I just need to adapt some of the code to make it more performant and so your app won’t be buggy or laggy.&lt;/p&gt;
+
+&lt;h2 id=&quot;adding-the-flag-for-english-translation&quot;&gt;Adding the flag for english translation&lt;/h2&gt;
+
+&lt;p&gt;Now on top of the carousel, you can see a new flag (US one) which when you click will hide or display the english translations of what you are reading.&lt;/p&gt;
+
+&lt;p&gt;This is something asked a lot lately so here it is … ;)&lt;/p&gt;
+
+&lt;p&gt;By default, I show the english translation, but soon I’ll switch to no english translations first, and you’ll have to click to see it.&lt;/p&gt;
+
+&lt;p&gt;BTW: I’m working on something to let you &lt;strong&gt;choose the flag&lt;/strong&gt; ^^&lt;/p&gt;
+
+&lt;h2 id=&quot;new-section---dont-know-how-to-read-yet&quot;&gt;New section - Don’t know how to read yet?&lt;/h2&gt;
+
+&lt;p&gt;The app is not meant to learn how to read, but more as a tool/ ressource to help you in your learning trip ;)&lt;/p&gt;
+
+&lt;p&gt;This is why, I now link to resources which are meant to learn how to read.&lt;/p&gt;
+
+&lt;p&gt;1st - &lt;a href=&quot;http://learnthaionline.com/amember/aff/go/joba&quot;&gt;Rapid way to learn Thai&lt;/a&gt; by Gary Orman.&lt;/p&gt;
+
+&lt;p&gt;I had the chance to met the guy, follow his course and it’s very interesting and well done! The method that he’s teaching is very effective and will for sure result in you being able to read Thai.&lt;/p&gt;
+
+&lt;p&gt;He also has a huge collection of resources (Audio + Video + Subtitle) of movies / video clip / Novel available which helps a lot to practice.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://learnthaionline.com/amember/aff/go/joba&quot;&gt;Read more about his method on his website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;(This is an affiliate link, so the app will get a commission if you purchase anything from it).&lt;/p&gt;
+
+&lt;p&gt;2nd is the Other resources section.&lt;/p&gt;
+
+&lt;p&gt;This sections contains YouTube channel and books that I recommend. If you get any other channel or books that you’ll recommend, feel free to contact us via the &lt;a href=&quot;/contact&quot;&gt;contact form&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;android-only---improvement&quot;&gt;Android Only - Improvement&lt;/h2&gt;
+
+&lt;p&gt;Android is dropping the support for version 4.4.x (which has over 4 years now) and so we did too - Sorry for those having old version of Android :( but dropping that version will make the app more performant for more than 90% of the other users.&lt;/p&gt;
+
+&lt;h2 id=&quot;website-improvement&quot;&gt;Website improvement&lt;/h2&gt;
+
+&lt;p&gt;I’m slowly improving this website with now a new section called App feature where you’ll be able to find all the app feature with a description to help you to use them correctly.&lt;/p&gt;
+
+&lt;h2 id=&quot;next&quot;&gt;Next&lt;/h2&gt;
+
+&lt;p&gt;A lot of new feature are on the pipe! Stay tuned to know what’s going to be there next ;)&lt;/p&gt;</content><author><name></name></author><summary type="html">Today, I released the version 7 of Read Write Speak Thai.</summary></entry><entry><title type="html">Small conversations in app - v6.2.8</title><link href="https://readthaiapp.github.io/small-conversations-in-app" rel="alternate" type="text/html" title="Small conversations in app - v6.2.8" /><published>2018-10-31T00:00:00+00:00</published><updated>2018-10-31T00:00:00+00:00</updated><id>https://readthaiapp.github.io/small-conversations-in-app</id><content type="html" xml:base="https://readthaiapp.github.io/small-conversations-in-app">&lt;p&gt;The goal of the app is to provide you, &lt;strong&gt;ressources&lt;/strong&gt; and &lt;strong&gt;tools&lt;/strong&gt; to practice and improve your Thai.&lt;/p&gt;
 
 &lt;p&gt;We first started with &lt;strong&gt;colorised sentences&lt;/strong&gt; (to show the tone easily) plus a set of tools like &lt;strong&gt;Play the sentence&lt;/strong&gt;, &lt;strong&gt;Play the word&lt;/strong&gt;, &lt;strong&gt;Search in Thai or in English&lt;/strong&gt; a set of sentences, &lt;strong&gt;Copy&lt;/strong&gt; the sentences to &lt;strong&gt;paste&lt;/strong&gt; it somewhere else, &lt;strong&gt;Loop&lt;/strong&gt; over and over the sentence to shadow it, etc etc&lt;/p&gt;
 
@@ -228,42 +278,4 @@
 
 &lt;p&gt;If you have any kind of issue or suggestions or feature request, same same ! send us an email, post here under the blog post or what ever we listen all our channel ;)&lt;/p&gt;
 
-&lt;p&gt;Put a review on the store, it help us to reach more peoples, more ideas, more motivations ;)&lt;/p&gt;</content><author><name></name></author><summary type="html">If you were using the application to practice the different Thai font, it was a bit hard because to change the font you had to go in the settings each time to switch between the normal font and the hard one you were learning.</summary></entry><entry><title type="html">7 new games in app to practice your Thai reading</title><link href="https://readthaiapp.github.io/7-new-games-in-app" rel="alternate" type="text/html" title="7 new games in app to practice your Thai reading" /><published>2018-08-16T00:00:00+00:00</published><updated>2018-08-16T00:00:00+00:00</updated><id>https://readthaiapp.github.io/7-new-games-in-app</id><content type="html" xml:base="https://readthaiapp.github.io/7-new-games-in-app">&lt;p&gt;Wow Wow Wow ! It has been a crazy week of development to pop this really useful feature in the app!&lt;/p&gt;
-
-&lt;p&gt;Thanks to a feedback from Colin and others, we now have some small Quizz/Puzzle type of games.&lt;/p&gt;
-
-&lt;p&gt;It’s quite basic right now, but useful already - more of those games will appear in the app soon ;)&lt;/p&gt;
-
-&lt;h2 id=&quot;sentences-and-words-games&quot;&gt;Sentences and words games&lt;/h2&gt;
-
-&lt;h3 id=&quot;find-the-correct-translations&quot;&gt;Find the correct translations&lt;/h3&gt;
-
-&lt;p&gt;Read or Listen to the sentences/word and select the correct translations.&lt;/p&gt;
-
-&lt;h3 id=&quot;sound-what-sentenceword-is-it--english&quot;&gt;Sound: What sentence/word is it ? English&lt;/h3&gt;
-
-&lt;p&gt;Almost the same as the Find the correct translations, but here you only have the sound ;) It’s a bit harder !!&lt;/p&gt;
-
-&lt;h3 id=&quot;sound-what-sentenceword-is-it--thai&quot;&gt;Sound: What sentence/word is it ? Thai&lt;/h3&gt;
-
-&lt;p&gt;Same principle as above, but with the Thai version.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-tone-is-it-only-for-word&quot;&gt;What tone is it? (Only for word)&lt;/h3&gt;
-
-&lt;p&gt;Probably the most difficult one ;) The word is written in Thai, and you can also listen to it, and you have to find the correct tone! Take care some words have multiple tones!&lt;/p&gt;
-
-&lt;h2 id=&quot;contest&quot;&gt;Contest&lt;/h2&gt;
-
-&lt;p&gt;Who will be the first one with 100 good answers ?&lt;/p&gt;
-
-&lt;p&gt;Send us a screenshot or post on the &lt;a href=&quot;https://www.facebook.com/readthaifunapp&quot;&gt;facebook page&lt;/a&gt; when you reach 100 good answers on a game ;)&lt;/p&gt;
-
-&lt;p&gt;I’ve nothing to offer right now, but you’ll probably become a gold member if they are gold member one day ^^ so it’s still worth trying !&lt;/p&gt;
-
-&lt;h2 id=&quot;want-to-help&quot;&gt;Want to help?&lt;/h2&gt;
-
-&lt;p&gt;Easy, let us know what you think about the app (Via the contact form, or in app there is a feature in the About section).&lt;/p&gt;
-
-&lt;p&gt;If you have any kind of issue or suggestions or feature request, same same ! send us an email, post here under the blog post or what ever we listen all our channel ;)&lt;/p&gt;
-
-&lt;p&gt;Put a review on the store, it help us to reach more peoples, more ideas, more motivations ;)&lt;/p&gt;</content><author><name></name></author><summary type="html">Wow Wow Wow ! It has been a crazy week of development to pop this really useful feature in the app!</summary></entry></feed>
+&lt;p&gt;Put a review on the store, it help us to reach more peoples, more ideas, more motivations ;)&lt;/p&gt;</content><author><name></name></author><summary type="html">If you were using the application to practice the different Thai font, it was a bit hard because to change the font you had to go in the settings each time to switch between the normal font and the hard one you were learning.</summary></entry></feed>
