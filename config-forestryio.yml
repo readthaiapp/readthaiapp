@@ -8,11 +8,13 @@ description: 'Read write speak thai, mobile application on iOS and Android to le
 permalink: ":title/"
 baseurl: ''
 url: https://readthaiapp.github.io
-logo: logo.png
+logo: "/assets/img/logo.png"
 facebook: readthaifunapp
-twitter: joba_react
 instagram: readthaifun_app
 github: 
+twitter:
+  username: joba_react
+  card: summary
 collections:
   features:
     output: true
@@ -39,6 +41,7 @@ sass:
   style: compact
 plugins_dir:
 - jekyll-assets
+- jekyll-seo-tag
 assets:
   source_maps: true
   destination: "/assets"
