@@ -21,3 +21,5 @@ If it come from the **app** or from a **book**.
 Right now, we only have one other source which is the first book of **Manee Mana**, but we want to add more and more source.
 
 ![search sentence screen](assets/img/searchSentencesScreen-1.png "searchSentence")
+
+If you practice the same deck over and over, and want to pass some slide you've already seen and know, just put the **number** of the last slide you've practiced. 
