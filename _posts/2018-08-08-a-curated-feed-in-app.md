@@ -2,7 +2,7 @@
 title: A curated feed in app
 layout: post
 date: 2018-08-08 00:00:00 +0000
-img: "/blogCurated.jpg"
+image: "/blogCurated.jpg"
 description:
   What about a curated content from all the social media inside the app
   ?

@@ -2,7 +2,7 @@
 title: Start at a specific slide
 layout: post
 date: 2018-09-06 00:00:00 +0000
-img: "/newFeatureStartAt.jpg"
+image: "/newFeatureStartAt.jpg"
 description: 'Many people were asking for that feature but I couldn''t make it ..
   until now ;) '
 

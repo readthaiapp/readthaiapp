@@ -2,7 +2,7 @@
 title: A small feature to rules them all
 layout: post
 date: 2018-08-18 00:00:00 +0000
-img: "/TwoButton.jpg"
+image: "/TwoButton.jpg"
 description:
   "I'm not sure about the title but ... I've added a small feature which
   tend to be reaaaaaaaaaaalllllyyy useful for people exercising the different font

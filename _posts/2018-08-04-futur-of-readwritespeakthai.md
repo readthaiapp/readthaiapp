@@ -2,7 +2,7 @@
 title: Futur of Read Write Speak Thai
 layout: post
 date: 2018-08-04 00:00:00 +0000
-img: "/blogScreen.jpg"
+image: "/blogScreen.jpg"
 description:
   Here are some insight of what I'm going to develop in the next few weeks
   for the application.

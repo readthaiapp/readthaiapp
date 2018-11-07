@@ -10,9 +10,9 @@ canonical: ok
       <h2 class="title-article"><a title="{{post.title}}" href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
       <div class="post-date"><span>{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
     </header>
-    {% if post.img %}
+    {% if post.image %}
     <a title="{{post.title}}" href="{{post.url | prepend: site.baseurl}}"><img class="post-image" src={{ "/assets/img/" | prepend: site.baseurl
-        | append: post.img }}
+        | append: post.image }}
         alt="{{post.title}}"></a>
     {% endif %}
     <p>{{post.description}} <a title="more" class="more" href="{{post.url | prepend: site.baseurl}}">(Read more...)</a></p>

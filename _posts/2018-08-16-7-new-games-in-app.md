@@ -2,7 +2,7 @@
 title: 7 new games in app to practice your Thai reading
 layout: post
 date: 2018-08-16 00:00:00 +0000
-img: "/banner1024.jpg"
+image: "/banner1024.jpg"
 description: A new major added feature to the app, Games ! Test yourself with 7 new
   games
 

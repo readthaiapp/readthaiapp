@@ -2,7 +2,7 @@
 title: A new pack of sentences !
 layout: post
 date: 2018-10-27 00:00:00 +0000
-img: "/Morethan1000.jpg"
+image: "/Morethan1000.jpg"
 description: 'We did it ! More than a thousand sentences in the app ! '
 
 ---

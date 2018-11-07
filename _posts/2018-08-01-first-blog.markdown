@@ -2,7 +2,7 @@
 layout: post
 title: Why is it important to be able to read Thai?
 date: 2018-08-01 00:00:00 +0000
-img: house.jpg
+image: house.jpg
 description: When you are learning languages, it is important to build a good foundation.
   A house without correct foundation will be destroyed when the wind come. Use that
   image to represent your motivation and you knowledge of the thai language.

@@ -13,9 +13,9 @@ permalink: "/appfeatures/"
             <header class="header-article">
                 <h2 class="title-article"><a class="feature-title" title="{{feature.title}}" href="{{feature.url | prepend: site.baseurl}}">{{feature.title}}</a></h2>
             </header>
-            {% if feature.img %}
+            {% if feature.image %}
             <a title="{{feature.title}}" href="{{feature.url | prepend: site.baseurl}}"><img class="post-image" src={{ "/assets/img/" | prepend: site.baseurl
-              | append: feature.img }}
+              | append: feature.image }}
                     alt="{{post.title}}"></a>
             {% endif %}
             <p>{{feature.description}}

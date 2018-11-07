@@ -2,7 +2,7 @@
 title: Previous lessons and many more sentences
 layout: post
 date: 2018-09-29 00:00:00 +0000
-img: "/PrevLesson.jpg"
+image: "/PrevLesson.jpg"
 description: 'A new feature added from a suggestion of a user and many more sentences
   ! '
 

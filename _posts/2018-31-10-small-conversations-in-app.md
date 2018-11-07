@@ -2,7 +2,7 @@
 title: Small conversations in app - v6.2.8
 layout: post
 date: 2018-10-31 00:00:00 +0000
-img: "/conversation.jpg"
+image: "/conversation.jpg"
 description: To help you in your learning, a new type of ressource has been added
   to the app, Conversations, hope you'll like it.
 

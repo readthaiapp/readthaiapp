@@ -2,7 +2,7 @@
 title: V7 is available
 layout: post
 date: 2018-11-06 04:40
-img: "/newFeature7Nov.jpg"
+image: "/newFeature7Nov.jpg"
 description: 'A new version of the app is available. Come and check what''s new in
   there! '
 
