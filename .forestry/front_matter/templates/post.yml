@@ -14,8 +14,8 @@ fields:
   name: date
   label: date
 - type: file
-  name: img
-  label: img
+  name: image
+  label: image
 - type: textarea
   name: description
   label: description
