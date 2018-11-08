@@ -18,7 +18,7 @@ twitter:
 collections:
   features:
     output: true
-    permalink: "/:title"
+    permalink: "/appfeatures/:title"
   posts:
     output: true
     permalink: "/:title"
