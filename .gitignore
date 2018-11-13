@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 
 config.codekit
+assets/sounds/sentences/data.json
+assets/sounds/sentences/test.js
