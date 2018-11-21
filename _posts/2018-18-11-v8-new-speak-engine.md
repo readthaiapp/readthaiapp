@@ -1,7 +1,7 @@
 ---
 title: New text-to-speech engine for the V8
 layout: post
-date: 2018-11-21 10:52:25 +0000
+date: 2018-11-20 10:52:25 +0000
 image: "/v8Available.jpg"
 description: 'For the V8 (yes already! :p) I uploaded all the sentences/words as an
   MP3 said by a better Text-To-Speech engine than the default Google/Apple one. '
