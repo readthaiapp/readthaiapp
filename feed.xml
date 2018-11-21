@@ -1,5 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://readthaiapp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://readthaiapp.github.io/" rel="alternate" type="text/html" /><updated>2018-11-21T02:53:08+00:00</updated><id>https://readthaiapp.github.io/feed.xml</id><title type="html">Read Write Speak Thai - Free App to learn Thai</title><subtitle>Read write speak thai, mobile application on iOS and Android to learn to read Thai. Color the tone, read sentences and words.
-</subtitle><entry><title type="html">V7 is available</title><link href="https://readthaiapp.github.io/v7-is-available" rel="alternate" type="text/html" title="V7 is available" /><published>2018-11-06T04:40:00+00:00</published><updated>2018-11-06T04:40:00+00:00</updated><id>https://readthaiapp.github.io/v7-is-available</id><content type="html" xml:base="https://readthaiapp.github.io/v7-is-available">&lt;p&gt;Today, I released the version 7 of Read Write Speak Thai.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://readthaiapp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://readthaiapp.github.io/" rel="alternate" type="text/html" /><updated>2018-11-21T03:04:22+00:00</updated><id>https://readthaiapp.github.io/feed.xml</id><title type="html">Read Write Speak Thai - Free App to learn Thai</title><subtitle>Read write speak thai, mobile application on iOS and Android to learn to read Thai. Color the tone, read sentences and words.
+</subtitle><entry><title type="html">New text-to-speech engine for the V8</title><link href="https://readthaiapp.github.io/v8-new-speak-engine" rel="alternate" type="text/html" title="New text-to-speech engine for the V8" /><published>2018-11-20T10:52:25+00:00</published><updated>2018-11-20T10:52:25+00:00</updated><id>https://readthaiapp.github.io/v8-new-speak-engine</id><content type="html" xml:base="https://readthaiapp.github.io/v8-new-speak-engine">&lt;p&gt;Finally !&lt;/p&gt;
+
+&lt;p&gt;One of the &lt;strong&gt;roadmap&lt;/strong&gt; thing has been done ;)&lt;/p&gt;
+
+&lt;p&gt;I worked on many things those days which were not in the roadmap but more on the feedback from people.&lt;/p&gt;
+
+&lt;p&gt;We are almost reaching the &lt;strong&gt;1500 sentences&lt;/strong&gt; in the app &lt;strong&gt;thanks to you&lt;/strong&gt; which sends me content!&lt;/p&gt;
+
+&lt;p&gt;I was very unhappy with the Text-to-speech engine of Google and iOS, some of the word were really mispronounced… and so I change for another Google Text-to-speech engine “kind of”.&lt;/p&gt;
+
+&lt;p&gt;Now, instead of using your own Text-to-speech engine, he’s going to load an mp3 somewhere over the Internet ;) so no more full &lt;strong&gt;offline capability&lt;/strong&gt; :&amp;lt;&lt;/p&gt;
+
+&lt;p&gt;It is still a robot, from Google by the way, but with a way more better &lt;strong&gt;quality&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;You can still switch on the old text-to-speech method if you want to use it without Internet. (On the top right corner, the &lt;strong&gt;settings&lt;/strong&gt; icon).&lt;/p&gt;
+
+&lt;p&gt;Hope you will like it, feel free to &lt;strong&gt;reach&lt;/strong&gt; &lt;strong&gt;us&lt;/strong&gt; via the &lt;strong&gt;contact form&lt;/strong&gt;/ &lt;strong&gt;reviews&lt;/strong&gt;/ &lt;strong&gt;facebook&lt;/strong&gt; etc ;)&lt;/p&gt;</content><author><name></name></author><summary type="html">Finally !</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://readthaiapp.github.io/v8Available.jpg" /></entry><entry><title type="html">V7 is available</title><link href="https://readthaiapp.github.io/v7-is-available" rel="alternate" type="text/html" title="V7 is available" /><published>2018-11-06T04:40:00+00:00</published><updated>2018-11-06T04:40:00+00:00</updated><id>https://readthaiapp.github.io/v7-is-available</id><content type="html" xml:base="https://readthaiapp.github.io/v7-is-available">&lt;p&gt;Today, I released the version 7 of Read Write Speak Thai.&lt;/p&gt;
 
 &lt;p&gt;Here is a description of what is new inside the app.&lt;/p&gt;
 
@@ -264,18 +280,4 @@
 
 &lt;p&gt;I hope this will help you ;)&lt;/p&gt;
 
-&lt;p&gt;If you have any questions or remarks, or if one steps didn’t work or is different from yours, contact us and we will help you.&lt;/p&gt;</content><author><name></name></author><summary type="html">If you don’t have any sound in the app and you have a samsung phone, follow this steps to change the Text-To-Speech from Samsung to the Google one.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://readthaiapp.github.io/coverpic.jpg" /></entry><entry><title type="html">A small feature to rules them all</title><link href="https://readthaiapp.github.io/a-small-feature-to-rules-them-all" rel="alternate" type="text/html" title="A small feature to rules them all" /><published>2018-08-18T00:00:00+00:00</published><updated>2018-08-18T00:00:00+00:00</updated><id>https://readthaiapp.github.io/a-small-feature-to-rules-them-all</id><content type="html" xml:base="https://readthaiapp.github.io/a-small-feature-to-rules-them-all">&lt;p&gt;If you were using the application to practice the different Thai font, it was a bit hard because to change the font you had to go in the settings each time to switch between the normal font and the hard one you were learning.&lt;/p&gt;
-
-&lt;p&gt;So this is why I’ve added a new button on top of the card to switch directly between the selected font and the normal font.&lt;/p&gt;
-
-&lt;p&gt;So when you are like … What’s that letter !! Switch back to normal mode quickly in one click and switch it back to you hard one in another click.&lt;/p&gt;
-
-&lt;p&gt;Hope it will be useful for most of you.&lt;/p&gt;
-
-&lt;h2 id=&quot;want-to-help&quot;&gt;Want to help?&lt;/h2&gt;
-
-&lt;p&gt;Easy, let us know what you think about the app (Via the contact form, or in app there is a feature in the About section).&lt;/p&gt;
-
-&lt;p&gt;If you have any kind of issue or suggestions or feature request, same same ! send us an email, post here under the blog post or what ever we listen all our channel ;)&lt;/p&gt;
-
-&lt;p&gt;Put a review on the store, it help us to reach more peoples, more ideas, more motivations ;)&lt;/p&gt;</content><author><name></name></author><summary type="html">If you were using the application to practice the different Thai font, it was a bit hard because to change the font you had to go in the settings each time to switch between the normal font and the hard one you were learning.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://readthaiapp.github.io/TwoButton.jpg" /></entry></feed>
+&lt;p&gt;If you have any questions or remarks, or if one steps didn’t work or is different from yours, contact us and we will help you.&lt;/p&gt;</content><author><name></name></author><summary type="html">If you don’t have any sound in the app and you have a samsung phone, follow this steps to change the Text-To-Speech from Samsung to the Google one.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://readthaiapp.github.io/coverpic.jpg" /></entry></feed>
