@@ -16,3 +16,5 @@ It's a folder containing the sentences, words, consonants, vowels and numbers fr
 You can so listen to them everywhere you want ;) 
 
 Enjoy! 
+
+(Don't forget to review us on the store if you like the app ;) That helps to develop it ;) ) 
