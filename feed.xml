@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://readthaiapp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://readthaiapp.github.io/" rel="alternate" type="text/html" /><updated>2018-11-21T03:04:22+00:00</updated><id>https://readthaiapp.github.io/feed.xml</id><title type="html">Read Write Speak Thai - Free App to learn Thai</title><subtitle>Read write speak thai, mobile application on iOS and Android to learn to read Thai. Color the tone, read sentences and words.
-</subtitle><entry><title type="html">New text-to-speech engine for the V8</title><link href="https://readthaiapp.github.io/v8-new-speak-engine" rel="alternate" type="text/html" title="New text-to-speech engine for the V8" /><published>2018-11-20T10:52:25+00:00</published><updated>2018-11-20T10:52:25+00:00</updated><id>https://readthaiapp.github.io/v8-new-speak-engine</id><content type="html" xml:base="https://readthaiapp.github.io/v8-new-speak-engine">&lt;p&gt;Finally !&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://readthaiapp.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://readthaiapp.github.io/" rel="alternate" type="text/html" /><updated>2018-11-26T10:13:45+00:00</updated><id>https://readthaiapp.github.io/feed.xml</id><title type="html">Read Write Speak Thai - Free App to learn Thai</title><subtitle>Read write speak thai, mobile application on iOS and Android to learn to read Thai. Color the tone, read sentences and words.
+</subtitle><entry><title type="html">The sounds of the app</title><link href="https://readthaiapp.github.io/resource-of-app" rel="alternate" type="text/html" title="The sounds of the app" /><published>2018-11-26T10:06:49+00:00</published><updated>2018-11-26T10:06:49+00:00</updated><id>https://readthaiapp.github.io/resource-of-app</id><content type="html" xml:base="https://readthaiapp.github.io/resource-of-app">&lt;p&gt;You can download the sounds here :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://1drv.ms/u/s!ApTSxABBsIcZgpUQcMPZoE6y6yZN2Q&quot; title=&quot;https://1drv.ms/u/s!ApTSxABBsIcZgpUQcMPZoE6y6yZN2Q&quot;&gt;https://1drv.ms/u/s!ApTSxABBsIcZgpUQcMPZoE6y6yZN2Q&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a folder containing the sentences, words, consonants, vowels and numbers from the app.&lt;/p&gt;
+
+&lt;p&gt;You can so listen to them everywhere you want ;)&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;</content><author><name></name></author><summary type="html">You can download the sounds here :</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://readthaiapp.github.io/play26Nov.jpg" /></entry><entry><title type="html">New text-to-speech engine for the V8</title><link href="https://readthaiapp.github.io/v8-new-speak-engine" rel="alternate" type="text/html" title="New text-to-speech engine for the V8" /><published>2018-11-20T10:52:25+00:00</published><updated>2018-11-20T10:52:25+00:00</updated><id>https://readthaiapp.github.io/v8-new-speak-engine</id><content type="html" xml:base="https://readthaiapp.github.io/v8-new-speak-engine">&lt;p&gt;Finally !&lt;/p&gt;
 
 &lt;p&gt;One of the &lt;strong&gt;roadmap&lt;/strong&gt; thing has been done ;)&lt;/p&gt;
 
@@ -231,53 +239,4 @@
 
 &lt;p&gt;So, because the application backend already have all the decomposition of words like the example that I show, I was thinking of adding a new mode where you can see those “New word composed of other words”. I find interesting to know the origin of a word, how it’s composed and it’s easier for me to remember it and probably also create new association (even if I don’t know the final word)&lt;/p&gt;
 
-&lt;p&gt;Tell me what you think about it, if it will be useful for you or I’m in a total absurd world ? :&lt;/p&gt;</content><author><name></name></author><summary type="html">To prepare the mode where people can add their own sentences, I needed a huge set of words ! It will help people to enter faster the sentences without having the need to define the tone etc …</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://readthaiapp.github.io/mapChula.jpg" /></entry><entry><title type="html">No sound or want to change to a male voice ? Samsung phone</title><link href="https://readthaiapp.github.io/samsung-no-sound" rel="alternate" type="text/html" title="No sound or want to change to a male voice ? Samsung phone" /><published>2018-08-24T00:00:00+00:00</published><updated>2018-08-24T00:00:00+00:00</updated><id>https://readthaiapp.github.io/samsung-no-sound</id><content type="html" xml:base="https://readthaiapp.github.io/samsung-no-sound">&lt;p&gt;If you don’t have any &lt;strong&gt;sound&lt;/strong&gt; in the app and you have a &lt;strong&gt;samsung phone&lt;/strong&gt;, follow this steps to change the Text-To-Speech from Samsung to the Google one.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, Samsung have made their own Text-To-Speech system but without the Thai language in it. Thankfully, all Android phone have the &lt;strong&gt;Google Text-To-Speech&lt;/strong&gt; pre-installed which have the Thai language.&lt;/p&gt;
-
-&lt;p&gt;Also, if you want to switch from a female voice to a male voice, follow the same procedure (It will works for every &lt;strong&gt;Android&lt;/strong&gt; phone)&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Go to your &lt;strong&gt;Settings&lt;/strong&gt; and Select &lt;strong&gt;Accessibility&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;img src=&quot;/assets/img/Screen1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Select &lt;strong&gt;Text-To-Speech&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/Screen2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Select &lt;strong&gt;Google Text-to-Speech(2)&lt;/strong&gt; then click on the small &lt;strong&gt;gear icon (settings - 3)&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/Screen3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Click &lt;strong&gt;Install voice data&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/Screen4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Select &lt;strong&gt;Thai&lt;/strong&gt; from the list&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/Screen5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Choose a &lt;strong&gt;voice.&lt;/strong&gt; You can take wath ever voice you want, there is male and female voice.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/Screen6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Restart &lt;strong&gt;Read Write Speak Thai application&lt;/strong&gt; and click on Play from anywhere, it should work (you might have a small delay the first time).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I hope this will help you ;)&lt;/p&gt;
-
-&lt;p&gt;If you have any questions or remarks, or if one steps didn’t work or is different from yours, contact us and we will help you.&lt;/p&gt;</content><author><name></name></author><summary type="html">If you don’t have any sound in the app and you have a samsung phone, follow this steps to change the Text-To-Speech from Samsung to the Google one.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://readthaiapp.github.io/coverpic.jpg" /></entry></feed>
+&lt;p&gt;Tell me what you think about it, if it will be useful for you or I’m in a total absurd world ? :&lt;/p&gt;</content><author><name></name></author><summary type="html">To prepare the mode where people can add their own sentences, I needed a huge set of words ! It will help people to enter faster the sentences without having the need to define the tone etc …</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://readthaiapp.github.io/mapChula.jpg" /></entry></feed>
