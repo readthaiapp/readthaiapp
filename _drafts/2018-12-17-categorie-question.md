@@ -11,7 +11,7 @@ Here we are, the full list of questions in Thai inside the app Read Write Speak 
 
 291 questions in Thai-English that you can use day to day! 
 
-T: คุณมีพี่ชายบ้างไหม  
+T: คุณมีพี่ชายบ้างไหม  [Sound](/assets/sounds/sentences/1.mp3)  
 E: Have you any brothers?
 
 T: คุณเล่นแบดมินตันเป็นหรือไม่  
