@@ -1,5 +1,5 @@
 ---
-title: All the questions in the app
+title: All the questions of the app
 layout: post
 date: 2018-12-17 08:58:33 +0000
 image: "/bannerCategQuestion.jpg"
