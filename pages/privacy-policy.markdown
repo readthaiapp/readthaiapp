@@ -2,8 +2,8 @@
 layout: about
 title: privacy-policy
 permalink: "/privacy-policy"
----
 
+---
 **Privacy Policy**
 
 Johann Baziret built the Read Write Speak Thai app as a Commercial app. This SERVICE is provided by Johann Baziret and is intended for use as is.
@@ -22,10 +22,10 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+* [Google Play Services](https://www.google.com/policies/privacy/)
+* [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+* [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+* [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
 **Log Data**
 
@@ -41,10 +41,10 @@ This Service does not use these “cookies” explicitly. However, the app may u
 
 I may employ third-party companies and individuals due to the following reasons:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+* To facilitate our Service;
+* To provide the Service on our behalf;
+* To perform Service-related services; or
+* To assist us in analyzing how our Service is used.
 
 I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
@@ -58,7 +58,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 **Children’s Privacy**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
 **Changes to This Privacy Policy**
 
