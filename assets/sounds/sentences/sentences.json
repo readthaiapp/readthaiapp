@@ -6357,7 +6357,7 @@
     "english": "Hi, how many peoples?",
     "source": "C",
     "categories": ["14"],
-    "words": [1618, 320, 1242, 512]
+    "words": [1618, 320, 1242, 5, 512]
   },
   {
     "id": 1001,
@@ -6365,7 +6365,7 @@
     "english": "Hi, four persons please.",
     "source": "C",
     "categories": ["14"],
-    "words": [1618, 211, 1327, 1242, 211]
+    "words": [1618, 211, 1327, 5, 211]
   },
   {
     "id": 1002,
@@ -6606,5 +6606,197 @@
     "source": "C",
     "categories": ["14"],
     "words": [5281, 739, 307, 1558, 552, 84, 201, 512, 218, 1743, 320]
+  },
+  {
+    "id": 1028,
+    "thai": "สวัสดีครับมีอะไรให้ผมช่วยไหมครับ",
+    "english": "Good afternoon, sir. May I help you?",
+    "source": "C",
+    "categories": ["14"],
+    "words": [1618, 211, 2, 123, 243, 99, 174, 57, 211]
+  },
+  {
+    "id": 1029,
+    "thai": "สวัสดีครับผมชื่อจอห์นผมจองห้องไว้ห้องหนึ่งครับ",
+    "english": "Hi, I made a reservation for one room. My name is John.",
+    "source": "C",
+    "categories": ["14"],
+    "words": [1618, 211, 99, 122, 3963, 99, 1288, 29, 170, 29, 16, 211]
+  },
+  {
+    "id": 1030,
+    "thai": "ได้ครับผมขอเช็คสักครู่นะครับ",
+    "english": "Yes sir, I'm checking, one second",
+    "source": "C",
+    "categories": ["14"],
+    "words": [41, 211, 99, 198, 3334, 5272, 201, 211]
+  },
+  {
+    "id": 1031,
+    "thai": "ขอบคุณครับ",
+    "english": "Thank you.",
+    "source": "C",
+    "categories": ["14"],
+    "words": [552, 211]
+  },
+  {
+    "id": 1032,
+    "thai": "คุณจอห์นคุณจองห้องไว้สำหรับสามคืนใช่ไหมครับ",
+    "english": "Mr. John, did you book the room for 3 nights?",
+    "source": "C",
+    "categories": ["14"],
+    "words": [54, 3963, 54, 1288, 29, 170, 257, 1287, 855, 195, 211]
+  },
+  {
+    "id": 1033,
+    "thai": "เช็คอินวันที่ยี่สิบสามตุลาคมและเช็คเอาท์วันที่ยี่สิบเจ็ดตุลาคมนะครับ",
+    "english": "Check in 23rd October and check out on 27th October.",
+    "source": "C",
+    "categories": ["14"],
+    "words": [5283, 923, 5287, 1892, 26, 5285, 923, 5290, 1892, 201, 211]
+  },
+  {
+    "id": 1034,
+    "thai": "ห้องคุณคือห้องสองร้อยห้านะครับขึ้นไปชั้นสองแล้วเลี้ยวขวานะครับ",
+    "english": "Your room number is 205, second floor and turn right.",
+    "source": "C",
+    "categories": ["14"],
+    "words": [
+      29,
+      54,
+      59,
+      29,
+      5284,
+      201,
+      211,
+      5288,
+      5291,
+      218,
+      1286,
+      1331,
+      201,
+      211
+    ]
+  },
+  {
+    "id": 1035,
+    "thai": "ผมต้องเช็คเอาท์ตอนกี่โมง",
+    "english": "When should I check out?",
+    "source": "C",
+    "categories": ["14"],
+    "words": [99, 570, 5285, 719, 153]
+  },
+  {
+    "id": 1036,
+    "thai": "เวลาเช็คเอาท์ก่อนสิบ​เอ็ดโมงครึ่งนะครับ",
+    "english": "Check out time before 11.30 am, sir.",
+    "source": "C",
+    "categories": ["14"],
+    "words": [434, 5285, 288, 5289, 1317, 1002, 201, 211]
+  },
+  {
+    "id": 1037,
+    "thai": "คุณมีรถไปส่งที่สนามบินหรือเปล่า",
+    "english": "Do you have transport to the airport?",
+    "source": "C",
+    "categories": ["14"],
+    "words": [54, 2, 167, 1715, 67, 557, 613]
+  },
+  {
+    "id": 1038,
+    "thai": "ขอโทษด้วยครับเราไม่มีบริการแต่ผมสามารถโทรหาแท๊กซี่ให้คุณได้ครับ",
+    "english": "Sorry, we don’t have but I can call a taxi for you.",
+    "source": "C",
+    "categories": ["14"],
+    "words": [
+      1377,
+      43,
+      211,
+      130,
+      1376,
+      1022,
+      271,
+      99,
+      116,
+      1750,
+      522,
+      5286,
+      243,
+      54,
+      41,
+      211
+    ]
+  },
+  {
+    "id": 1039,
+    "thai": "งั้นดีเลยครับ",
+    "english": "Ok, good.",
+    "source": "C",
+    "categories": ["14"],
+    "words": [1550, 73, 278, 211]
+  },
+  {
+    "id": 1040,
+    "thai": "ยินดีครับ",
+    "english": "You are welcome sir.",
+    "source": "C",
+    "categories": ["14"],
+    "words": [220, 211]
+  },
+  {
+    "id": 1041,
+    "thai": "ขอบคุณมาก",
+    "english": "Thank you so much.",
+    "source": "C",
+    "categories": ["14"],
+    "words": [552, 84]
+  },
+  {
+    "id": 1042,
+    "thai": "ผมอยากพักผ่อนมากเลยเหนื่อยกับการเดินทางมาก",
+    "english": "I need to rest, I'm very tired from my travel.",
+    "source": "C",
+    "categories": ["14"],
+    "words": [99, 131, 143, 84, 278, 1549, 187, 660, 884, 84]
+  },
+  {
+    "id": 1043,
+    "thai": "ถ้าอยากติดต่อสอบถามอะไรเดี๋ยวผมจะแนะนำเกี่ยวกับเมืองนี้ให้นะครับ",
+    "english": "If you want any information about the city I can advice you.",
+    "source": "C",
+    "categories": ["14"],
+    "words": [
+      471,
+      131,
+      831,
+      3251,
+      123,
+      206,
+      99,
+      129,
+      1104,
+      851,
+      707,
+      215,
+      243,
+      201,
+      211
+    ]
+  },
+  {
+    "id": 1044,
+    "thai": "งั้นเยี่ยมมากเลยไว้เจอกันนะ",
+    "english": "Yes, that would be great. See you soon.",
+    "source": "C",
+    "categories": ["14"],
+    "words": [1550, 1522, 84, 278, 170, 576, 201]
+  },
+  {
+    "id": 1045,
+    "thai": "ไว้เจอกันครับพักผ่อนให้สบายนะครับ",
+    "english": "See you. Have a good rest.",
+    "source": "C",
+    "categories": ["14"],
+    "words": [170, 576, 211, 143, 243, 1252, 201, 211]
   }
 ]
